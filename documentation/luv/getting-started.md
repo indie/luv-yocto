@@ -1,7 +1,7 @@
 # Formatting a USB Drive for Linux UEFI Validation Project  
 ### [LUV Project](https://01.org/linux-uefi-validation) 
 
-The following steps explains *one way* of preparing a USB drive for the Linux UEFI 
+The following explains *one way* of preparing a USB drive for the Linux UEFI 
 Validation (LUV) Project. While some operating system components require formatting 
 or pre-formatting, the LUV Project does not. There is no need to pre-format 
 your USB drive. But do be aware that **the operations in this tutorial will erase

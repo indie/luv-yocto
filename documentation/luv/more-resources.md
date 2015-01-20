@@ -16,4 +16,4 @@ meantime, here are some additional resources we're maintaining:
 * Report [issues](https://github.com/01org/luv-yocto/issues) directly on Github
 
 
-[ [back](getting-started.html) ]
+[ [back](getting-started.md) ]
